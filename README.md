@@ -1,35 +1,35 @@
-# Basic Python Programs
+# Basic Python Programs (Google Colab)
 
-This repository contains a collection of beginner-level Python programs created while learning fundamental programming concepts.
+This repository contains beginner-level Python programs created while learning fundamental programming concepts.
 
-Each section demonstrates basic use of user input, variables, arithmetic operations, and formatted output.
+The programs were developed and tested using **Google Colab**.
 
 ## 🚀 Programs Included
 
-### 1. User Introduction Program
+1. User Introduction Program
+2. Temperature Converter
+3. Billing Program
+4. Student Information Card
 
-Collects user information and prints a personalized introduction message.
+Each section demonstrates:
 
-### 2. Temperature Converter
-
-Converts temperature from Celsius to Fahrenheit.
-
-### 3. Billing Program
-
-Calculates total bill amount based on item price and quantity.
-
-### 4. Student Information Card
-
-Displays a simple student ID card using user input.
-
-## 🛠 Requirements
-
-* Python 3
+* User input
+* Variables
+* Arithmetic operations
+* Formatted string output
+* Basic program flow
 
 ## ▶️ How to Run
 
-```bash
-git clone https://github.com/AzmaeenGH/basic-python-programs.git
-cd basic-python-programs
-python basic_python_programs.py
-```
+### Option 1 – Open in Google Colab
+
+1. Open the `.ipynb` file in this repository.
+2. Click **"Open in Colab"** (if available) or upload the file manually to Google Colab.
+3. Run the cells.
+
+### Option 2 – Run Locally
+
+Download the notebook and open it using:
+
+* Jupyter Notebook
+* VS Code (with Jupyter extension)
